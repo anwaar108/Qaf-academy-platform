@@ -30,7 +30,9 @@ This project simulates a real-world educational platform with structured backend
 ---
 
 ## 📸 Screenshots
+### Home Page
 <img width="1919" height="1015" alt="Screenshot 2026-05-17 124537" src="https://github.com/user-attachments/assets/088c5e68-10b6-4609-a0a9-15250964efc3" />
+### Home Page
 <img width="1919" height="906" alt="Screenshot 2025-07-01 143127" src="https://github.com/user-attachments/assets/d3840d3e-38ea-463b-88b2-69a822ea1d73" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-07 170426" src="https://github.com/user-attachments/assets/78e8109d-a3f6-4df1-94fc-818f32ed17f4" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-07 170612" src="https://github.com/user-attachments/assets/24fd4a36-c5d7-4de3-b242-fca5b54cac1b" />
